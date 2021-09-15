@@ -1,1 +1,1 @@
-# pageblaze-sdk
+# pageblade-sdk
